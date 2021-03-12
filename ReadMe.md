@@ -1,9 +1,9 @@
 # Data Communication
  
  ## Outline
- * [Demo 1 - EC2](#demo-1---ec2)
+ * [Demo: EC2](#demo:-ec2)
 
- ## Demo 1 - EC2
+ ## Demo: EC2
 
  * **AMI**: *Microsoft Windows Server 2016 Base*
 <p align='center'><img src="images/AMI.jpg"></p>
