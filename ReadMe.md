@@ -3,7 +3,7 @@
  ## Outline
  * [EC2 Demo](#ec2-demo)
 
- ## Demo: EC2
+ ## EC2 Demo
 
  * **AMI**: *Microsoft Windows Server 2016 Base*
 <p align='center'><img src="images/AMI.jpg"></p>
