@@ -1,7 +1,7 @@
 # Data Communication
  
  ## Outline
- * [Demo: EC2](#demo:-ec2)
+ * [EC2 Demo](#ec2-demo)
 
  ## Demo: EC2
 
