@@ -6,6 +6,6 @@
  * A little note from TA
 
  ## Outline
- * [EC2 Demo](../master/EC2/ReadMe.md)
+ * [EC2 Demo](/EC2/ReadMe.md)
  * [Internet Cable](../InternetCable/ReadMe.md)
  
