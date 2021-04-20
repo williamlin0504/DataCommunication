@@ -1,5 +1,8 @@
 ## EC2 Demo
 
+* On the EC2 webpage, click **Launch Instance**
+<p align='center'><img src="images/ec2.jpg"></p>
+
  * **AMI**: *Microsoft Windows Server 2016 Base*
 <p align='center'><img src="images/AMI.jpg"></p>
 

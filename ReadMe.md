@@ -7,5 +7,5 @@
 
  ## Outline
  * [EC2 Demo](/EC2/ReadMe.md)
- * [Internet Cable](/InternetCable/ReadMe.md)
+ * [VPC Demo](/VPC/ReadMe.md)
  
